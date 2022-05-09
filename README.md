@@ -1,5 +1,5 @@
 # flowerdetect-
-flowerdetect using swift, MLModel
+flowerdetect using swift, MLModel.
 
 You can get data about the flowers you are curious about through this app.
 
